@@ -21,3 +21,17 @@ venv/
 
 # Temporary files
 *.log
+
+# Local model and derived datasets
+ann_final_results.csv
+feature_engineered_dataset.csv
+feature_ranking_mutual_information.csv
+feature_ranking_random_forest.csv
+final_ml_dataset.csv
+final_modality_features.csv
+final_model_evaluation.csv
+hybrid_lstm_transformer_test_predictions.csv
+model_comparison_results.csv
+multimodal_fusion_dataset.csv
+student_prediction_data.csv
+student_prediction_results.csv
