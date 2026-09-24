@@ -1,0 +1,23 @@
+# Raw / private datasets
+sql-*.csv
+*.xlsx
+*.xls
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env
+
+# Model files
+*.keras
+*.h5
+*.pkl
+
+# Temporary files
+*.log
